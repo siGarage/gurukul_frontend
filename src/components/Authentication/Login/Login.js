@@ -40,6 +40,8 @@ export default function Login() {
                 src={require("../../../assets/images/mainlogo.png")}
                 className="header-brand-img"
                 alt=""
+                width='100px'
+                height="100px"
               />
             </div>
           </div>
